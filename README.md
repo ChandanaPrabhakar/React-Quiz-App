@@ -1,4 +1,7 @@
-# Project Name
+
+<img width="639" alt="Screenshot 2024-08-28 at 17 02 45" src="https://github.com/user-attachments/assets/897f6fe7-25e8-42db-8c73-04bcd5974dad">
+
+# React- Quiz- App
 
 ## Overview
 
